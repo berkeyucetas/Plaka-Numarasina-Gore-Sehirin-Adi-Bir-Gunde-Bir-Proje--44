@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\bin\Debug\Plaka Numarasına Göre Şehirin Adı.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\bin\Debug\Plaka Numarasına Göre Şehirin Adı.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\bin\Debug\Plaka Numarasına Göre Şehirin Adı.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\obj\Debug\Plaka Numarasına Göre Şehirin Adı.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\obj\Debug\Plaka_Numarasına_Göre_Şehirin_Adı.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\obj\Debug\Plaka_Numarasına_Göre_Şehirin_Adı.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\obj\Debug\Plaka Numarasına Göre Şehirin Adı.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\obj\Debug\Plaka Numarasına Göre Şehirin Adı.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\obj\Debug\Plaka Numarasına Göre Şehirin Adı.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Plaka Numarasına Göre Şehirin Adı\Plaka Numarasına Göre Şehirin Adı\obj\Debug\Plaka Numarasına Göre Şehirin Adı.pdb
